@@ -1,0 +1,8 @@
+C:\Users\ptsou\Google Drive\WQU\MScFE 670 Data feeds and Technology\Groupwork\src\bin\Debug\WorldQuant_Module3_CSA_SkeletonCode.exe.config
+C:\Users\ptsou\Google Drive\WQU\MScFE 670 Data feeds and Technology\Groupwork\src\bin\Debug\WorldQuant_Module3_CSA_SkeletonCode.exe
+C:\Users\ptsou\Google Drive\WQU\MScFE 670 Data feeds and Technology\Groupwork\src\bin\Debug\WorldQuant_Module3_CSA_SkeletonCode.pdb
+C:\Users\ptsou\Google Drive\WQU\MScFE 670 Data feeds and Technology\Groupwork\src\obj\Debug\Data-Feeds-and-Technology.csproj.AssemblyReference.cache
+C:\Users\ptsou\Google Drive\WQU\MScFE 670 Data feeds and Technology\Groupwork\src\obj\Debug\Data-Feeds-and-Technology.csproj.ResolveComReference.cache
+C:\Users\ptsou\Google Drive\WQU\MScFE 670 Data feeds and Technology\Groupwork\src\obj\Debug\Data-Feeds-and-Technology.csproj.CoreCompileInputs.cache
+C:\Users\ptsou\Google Drive\WQU\MScFE 670 Data feeds and Technology\Groupwork\src\obj\Debug\WorldQuant_Module3_CSA_SkeletonCode.exe
+C:\Users\ptsou\Google Drive\WQU\MScFE 670 Data feeds and Technology\Groupwork\src\obj\Debug\WorldQuant_Module3_CSA_SkeletonCode.pdb
